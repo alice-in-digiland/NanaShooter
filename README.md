@@ -1,5 +1,5 @@
 # Nana Shooter
-Silly game i made with pygame
+A simple game i made with pygame
 
 **Link to pygame: https://www.pygame.org/docs/**
 
